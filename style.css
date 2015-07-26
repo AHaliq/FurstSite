@@ -1,6 +1,6 @@
 /** Structural styles */
 a {
-  color: #377975
+  color: #1d9891
 }
 body {
   text-align: center;
@@ -24,12 +24,12 @@ h1{
 }
 h2 {
   font-size: 1.5em;
-  background-color: #f2f6fa;
+  background-color: #f2f6f8;
   padding: 15px;
 }
 footer {
   background-color: #536B78;
-  color: #f2f6fa;
+  color: #f2f6f8;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -70,7 +70,7 @@ th, td {
   padding: 15px;
   border-style: solid;
   border-width: 2px;
-  border-color: #f2f6fa;
+  border-color: #f2f6f8;
 }
 textarea {
   resize: vertical;
