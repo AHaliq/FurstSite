@@ -15,11 +15,12 @@ h1{
   text-transform: uppercase;
   font-size: 2.5em;
   border: 2px;
-  border-color: #f2f6fa;
+  border-color: #536B78;
   border-style: solid;
   padding: 25px;
   margin-left: 17.5px;
   margin-right: 17.5px;
+  margin-bottom: 10px;
 }
 h2 {
   font-size: 1.5em;
@@ -41,6 +42,15 @@ footer {
 .centeredsub, #checkboxes {
   display: inline-block;
   margin: auto;
+}
+#menubar {
+  margin-top: 0px;
+  display: inline-block;
+  margin:auto;
+  border-bottom: 1px solid;
+}
+.menu {
+  text-decoration: none;
 }
 
 /* Align with h2 */
