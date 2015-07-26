@@ -17,15 +17,21 @@ h1{
   text-transform: uppercase;
   font-size: 2.2em;
   border: 2px;
-  border-color: #efefef;
+  border-color: #f5f5f5;
   border-style: solid;
   padding: 10px;
 }
 h2 {
   font-size: 1.5em;
-  background-color: #efefef;
+  background-color: #f5f5f5;
   margin: 20px;
   padding: 15px;
+}
+footer {
+  background-color: #536B78;
+  color: #f5f5f5;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 table {
   margin-left: auto;
@@ -36,7 +42,12 @@ th, td {
   padding: 15px;
   border-style: solid;
   border-width: thick;
-  border-color: #efefef;
+  border-color: #f5f5f5;
+}
+dt, dd {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
 }
 ::selection {
   background: #ffb7b7;
