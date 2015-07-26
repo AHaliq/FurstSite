@@ -44,12 +44,14 @@ footer {
   margin: auto;
 }
 #menubar {
+  color: black;
   margin-top: 0px;
   display: inline-block;
   margin:auto;
   border-bottom: 1px solid;
 }
 .menu {
+  color: #536B78;
   text-decoration: none;
 }
 
