@@ -1,0 +1,38 @@
+p{
+  color: #536B78;
+}
+a {
+  color: #525777
+}
+body {
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 0.8em;
+  color: #637081;
+}
+strong {
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 1.5em;
+  background-color: #efefef;
+  margin: 20px;
+  padding: 15px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  border-style: solid;
+  border-width: thick;
+  border-color: #efefef;
+}
+::selection {
+  background: #ffb7b7;
+}
+::-moz-selection {
+  background: #ffb7b7;
+}
