@@ -25,6 +25,8 @@ h2 {
   font-size: 1.5em;
   background-color: #f5f5f5;
   margin: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
   padding: 15px;
 }
 footer {
@@ -44,10 +46,13 @@ th, td {
   border-width: thick;
   border-color: #f5f5f5;
 }
-dt, dd {
-  padding-left: 25px;
-  padding-right: 25px;
+dt, dd, ol, #checkboxes {
+  padding-left: 50px;
+  padding-right: 50px;
   text-align: left;
+}
+textarea {
+  resize: vertical;
 }
 ::selection {
   background: #ffb7b7;
