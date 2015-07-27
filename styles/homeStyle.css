@@ -1,0 +1,16 @@
+#hookField {
+  resize: vertical;
+}
+.contentrestrict {
+  max-width: 350px;
+  margin:auto;
+}
+.centeredsub {
+  display: inline-block;
+  margin: auto;
+}
+dt, dd, ol, #checkboxes {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: left;
+}

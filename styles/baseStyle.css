@@ -1,0 +1,82 @@
+a {
+  color: #1d9891;
+}
+mark {
+  background-color: #1d9891;
+  color: #ddfaf8;
+}
+body {
+  font-family: "Times New Roman";
+  font-size: 0.9em;
+  color: #536B78;
+}
+strong {
+  text-transform: uppercase;
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  border: 2px;
+  border-color: #536B78;
+  border-style: solid;
+  padding: 25px;
+  margin-left: 17.5px;
+  margin-right: 17.5px;
+  margin-bottom: 5px;
+}
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #f2f6f8;
+  padding: 15px;
+}
+footer {
+  text-align: center;
+  background-color: #536B78;
+  color: #f2f6f8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+fieldset {
+  border-style: none;
+}
+table {
+  caption-side: bottom;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #f2f6f8;
+}
+address {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: left;
+  display: inline-block;
+}
+#center {
+  text-align: center;
+}
+#root {
+  max-width: 750px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin: auto;
+}
+.contentBox {
+  display: inline-block;
+  padding: 15px;
+  color: #f2f6f8;
+  background-color: #536B78;
+}
+::selection {
+  background: #ffb7b7;
+}
+::-moz-selection {
+  background: #ffb7b7;
+}

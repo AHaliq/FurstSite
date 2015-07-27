@@ -2,115 +2,151 @@
 <html>
   <head>
     <title>Furst Webpage</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/baseStyle.css">
+    <link rel="stylesheet" href="styles/homeStyle.css">
+    <link rel="stylesheet" href="styles/navStyle.css">
   </head>
-  <body>
+  <body id="center">
     <h1>My first webpage</h1>
-    <nav id="menubar">
-      <!-- TODO: future to implement this as static home, video home and webpage project list and github link -->
-      <!-- TODO: first webpage, first few webpages (proj list), first homepage, first blog -->
-        <a class="menu" href="#what">what</a> &middot;
-        <a class="menu" href="#why">why</a> &middot;
-        <a class="menu" href="#dogs">dogs</a> &middot;
-        <a class="menu" href="#dank">dank</a> &middot;
-        <a class="menu" href="#fyi">fyi</a> &middot;
-        <a class="menu" href="#you">you</a>
+
+    <nav class="menubar">
+      <a class="menu active" href="">home</a> &middot;
+      <a class="menu" href="./pages/sites.html">sites</a> &middot;
+      <a class="menu" href="">blog</a>
     </nav>
-    <br>&middot;&middot;&middot;<br>
+    <br>&middot;&middot;&middot;<br><br>
+
     <div id="root">
-      <p>This is my first webpage</p>
-      <p>How exciting</p>
-      <p>
-        Yes, thats really <em>is</em> exciting.
-      </o>
-      <p>
-        <strong>Warning:</strong> level of
-        excitement may cause head to explode.
-      </p>
-      <!----------------------------------------------------------------------->
-      <h2 id="what">What is this</h2>
-      <p>
-        A simple page put together using
-        <abbr title="HyperText Markup Language">HTML</abbr>
-      </p>
-      <p>
-        With basic styling in
-        <abbr title="Cascading Style Sheets">CSS</abbr>
-      </p>
-      <!----------------------------------------------------------------------->
-      <h2 id="why">Why this is</h2>
-      <div class="centeredsub">
-        <ol>
-          <li>To learn HTML</li>
-          <li>To accept being a beginner again</li>
-          <li>Because of reasons...</li>
-        </ol>
-      </div>
-      <!----------------------------------------------------------------------->
-      <h2 id="dogs">Dem Dogs</h2>
-      <p>
-        <a href="http://omfgdogs.com/">where could they be?</a>
-      </p>
-      <!----------------------------------------------------------------------->
-      <h2 id="dank">A picture</h2>
-      <img src="http://dankmaymays.com/lel/lel.jpeg"
-      width="120" height="90" alt="lel">
-      <table>
-        <tr>
-          <th>These</th>
-          <th>Dank</th>
-          <th>Memes</th>
-        </tr>
-        <tr>
-          <td>lel</td>
-          <td>wow</td>
-          <td>gusta</td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            ayyy lmao
-          </td>
-          <td>
-            dolan
-          </td>
-        </tr>
-      </table>
-      <!----------------------------------------------------------------------->
-      <h2 id="fyi">Just for you to know</h2>
-      <div class="centeredsub">
-        <dl>
-          <dt>HTML</dt>
-          <dd>Abbreviation for HyperText Markup Language</dd>
-          <dt>Meta-Non-Dualism</dt>
-          <dd>Pseudo doctrines for new agers to assume oneness, and hug trees</dd>
-        </dl>
-      </div>
-      <!----------------------------------------------------------------------->
-      <h2 id="you">Your turn to speak</h2>
-      <form
-      action="https://soundcloud.com/playrecords/bsod-this-is-the-hook-original-mix"
-      method="get">
-        <p><input type="text" value="you like it?"></p>
-
-        <div id="checkboxes">
-          <input type="checkbox"> I like the bass</input><br>
-          <input type="checkbox"> I like the riffs</input><br>
-          <input type="radio"> Its catchy</input>
-        </div>
-
-        <p><textarea rows="3" cols="30">this is the hook</textarea></p>
-
+      <section class="contentBox">
+        <p>This is my first webpage</p>
+        <p>How exciting</p>
+        <p>Yes, that really <em>is</em> exciting.</p>
         <p>
-          <select>
-            <option>Deez</option>
-            <option>Nuts</option>
-          </select>
-          <input type="submit">
+          <strong>Warning:</strong> level of excitement may cause head to
+          explode.
         </p>
+      </section>
+      <br><br>
+      <!----------------------------------------------------------------------->
+      <section id="what">
+        <h2>What is this</h2>
+        <p>
+          A simple page put together using
+          <abbr title="HyperText Markup Language">HTML</abbr>
+        </p>
+        <p>
+          With basic styling in
+          <abbr title="Cascading Style Sheets">CSS</abbr>
+        </p>
+      </section>
+      <!----------------------------------------------------------------------->
+      <section id="why">
+        <h2>Why this is</h2>
+        <div class="centeredsub">
+          <ol>
+            <li>To learn HTML</li>
+            <li>To accept being a beginner again</li>
+            <li>Because of reasons as follows...</li>
+          </ol>
+        </div>
+        <div class="centeredsub">
+          <dl>
+            <dt>Meta-Non-Dualism</dt>
+            <dd>Pseudo doctrines for new agers to assume oneness, and hug trees
+            </dd>
 
-      </form>
+            <dt>Narcissism</dt>
+            <dd>A legal sociopath; artifact of a capitalistic society</dd>
+
+            <dt>Cultural Backwash</dt>
+            <dd>Because deep down, we are but just these dank memes.</dd>
+          </dl>
+        </div>
+      </section>
+      <!----------------------------------------------------------------------->
+      <section id="how">
+        <h2>How is this</h2>
+
+        <img src="http://dankmaymays.com/lel/lel.jpeg"
+        width="120" height="90" alt="lel">
+
+        <div class="contentrestrict">
+          <figcaption>
+            Fig 1. - The pagan idol behind the archetypal images of mischief,
+            ignorance, naivety and obnoxious ten year olds.
+          </figcaption>
+        </div><br>
+
+        <table>
+          <caption>
+            Fig 2. - <a href="http://omfgdogs.com/">who let them out</a>
+          </caption>
+          <tr>
+            <th>These</th>
+            <th>Dank</th>
+            <th>Memes</th>
+          </tr>
+          <tr>
+            <td>lel</td>
+            <td>wow</td>
+            <td>gusta</td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              ayyy lmao
+            </td>
+            <td>
+              dolan
+            </td>
+          </tr>
+        </table>
+      </section>
+      <!----------------------------------------------------------------------->
+      <section id="where">
+        <h2>Where this is</h2>
+        <address>
+          <ul>
+            <li>299-792-458</li>
+            <li>sefer@yetzirah.com</li>
+          </ul>
+        </address>
+        <p>
+          The day of <mark>beginnings</mark> was on <time datetime="1992-07-04">
+            4th of July 1992</time>.
+        </p>
+      </section>
+      <!----------------------------------------------------------------------->
+      <section id="who">
+        <h2>Who is this</h2>
+        <form
+        action="https://soundcloud.com/playrecords/bsod-this-is-the-hook-original-mix"
+        method="get">
+          <p>
+            <input type="text" value="you like it?">
+          </p>
+
+          <fieldset class="centeredsub" id="checkboxes">
+            <input type="checkbox"> I like the bass</input><br>
+            <input type="checkbox"> I like the riffs</input><br>
+            <input type="radio"> Its catchy</input>
+          </fieldset>
+
+          <p><textarea rows="3" cols="30" id="hookField">this is the hook
+          </textarea></p>
+
+          <p>
+            <select>
+              <option>Deez</option>
+              <option>Nuts</option>
+            </select>
+            <input type="submit">
+          </p>
+
+        </form>
+      </section>
     </div>
-    <!--------------------------------------------------------------------------->
+    <!------------------------------------------------------------------------->
+    <a href="#center">&#8593; top</a><br>
     <footer>
       I'm not sure what else to say, but to bid you farewell.<br>
       &copy; 2015 AHaliq
