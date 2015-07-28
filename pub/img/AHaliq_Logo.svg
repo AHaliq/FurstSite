@@ -4,25 +4,25 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="18.707px" height="19px" viewBox="0 0 18.707 19" enable-background="new 0 0 18.707 19" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="18.354" y2="0.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="0.354" y1="18.5" x2="9.354" y2="18.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="18.5" x2="18.354" y2="18.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="0.354" y2="0.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="18.354" y1="18.5" x2="13.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="9.5" x2="13.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="4.854" y1="5" x2="9.354" y2="9.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="0.354" y1="0.5" x2="4.854" y2="5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="9.5" x2="4.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="0.354" y1="18.5" x2="4.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="13.854" y1="5" x2="9.354" y2="9.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="13.854" y1="5" x2="18.354" y2="0.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="4.854" y2="5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="18.5" x2="4.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="4.854" y1="5" x2="4.854" y2="9.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="4.854" y1="14" x2="4.854" y2="9.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="13.854" y2="5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="13.854" y1="14" x2="9.354" y2="18.5"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="13.854" y1="9.5" x2="13.854" y2="14"/>
-	<line fill="none" stroke="#1C9891" stroke-miterlimit="10" x1="13.854" y1="5" x2="13.854" y2="9.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="18.354" y2="0.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="0.354" y1="18.5" x2="9.354" y2="18.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="18.5" x2="18.354" y2="18.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="0.354" y2="0.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="18.354" y1="18.5" x2="13.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="9.5" x2="13.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="4.854" y1="5" x2="9.354" y2="9.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="0.354" y1="0.5" x2="4.854" y2="5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="9.5" x2="4.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="0.354" y1="18.5" x2="4.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="13.854" y1="5" x2="9.354" y2="9.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="13.854" y1="5" x2="18.354" y2="0.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="4.854" y2="5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="18.5" x2="4.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="4.854" y1="5" x2="4.854" y2="9.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="4.854" y1="14" x2="4.854" y2="9.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="9.354" y1="0.5" x2="13.854" y2="5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="13.854" y1="14" x2="9.354" y2="18.5"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="13.854" y1="9.5" x2="13.854" y2="14"/>
+	<line fill="none" stroke="#f2f6f8" stroke-miterlimit="10" x1="13.854" y1="5" x2="13.854" y2="9.5"/>
 </g>
 </svg>
