@@ -1,0 +1,46 @@
+#first:link {
+  transition: .5s;
+  transition-property: color .5s, font-size .5s;
+  color: hsl(36, 50%, 50%);
+}
+#first:hover {
+  color: hsl(36, 100%, 50%);
+  font-size: 2em;
+}
+#second:link {
+  transition: .2s;
+  transition-property: color .2s, font-size .2s;
+  color: inherit;
+}
+#second:hover {
+  color: #00ccff;
+  font-size: 3em;
+}
+#third:link {
+  transition: .2s;
+  transition-property: color .2s, font-size .2s;
+  color: inherit;
+}
+#third:hover {
+  color: #ff00cc;
+  font-size:10em;
+}
+#fourth:link {
+  transition: 1s;
+  transition-property: color 1s, font-size 1s;
+  color:inherit;
+}
+#fourth:hover {
+  color: #ccff00;
+  font-size: 7em;
+}
+#center {
+  text-align: center;
+}
+body {
+  font-family: "Times New Roman"
+  font-size: 0.9em;
+}
+h1 {
+  font-size: 2em;
+}
